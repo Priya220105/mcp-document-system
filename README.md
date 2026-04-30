@@ -39,7 +39,7 @@ Documents
 ![MCP Inspector Resources tab listing documents](./screenshots/resources.png)
 
 ### MCP Inspector — Prompts
-![MCP Inspector Prompts tab](screenshots/prompts.png)
+![MCP Inspector Prompts tab](./screenshots/Prompts.png)
 
 ### CLI Interaction
 ![Terminal showing a sample query and response](./screenshots/cli.png)
